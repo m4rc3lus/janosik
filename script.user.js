@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Jánošík
 // @namespace    https://macko.industries.sk/dusan
-// @version      1.0.0
+// @version      1.03.0
 // @description  Bohatým bral, bohatším dával.
 // @author       ME or HE
 // @match        https://sk9.the-west.sk/game.php
